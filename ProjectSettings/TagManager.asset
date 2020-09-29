@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bullet
+  - map
+  - bullet1
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - tracks
+  - body
+  - tower
+  - gun
+  - map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tracks
+    uniqueID: 2058885797
+    locked: 0
+  - name: body
+    uniqueID: 1537056625
+    locked: 0
+  - name: tower
+    uniqueID: 3232902269
+    locked: 0
+  - name: gun
+    uniqueID: 2075067373
+    locked: 0

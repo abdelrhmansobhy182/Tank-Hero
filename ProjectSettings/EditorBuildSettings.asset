@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/TanksMenu.unity
+    guid: 842ab68b2ccc5484cb6b510e808cd7fa
+  - enabled: 1
+    path: Assets/Scenes/Level_menu.unity
+    guid: 0b05fa76e85131446970ca6ea2a70cd0
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 767ee696a94137940accdcbc62046f60
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: 54e584b52d2b7864f96bba1b2606f38e
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: ecc5d81d919736c4f900164e8e3ba377
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: c22ee380216f02e4196a46926fd27fc0
+  m_configObjects: {}
